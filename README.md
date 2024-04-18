@@ -1,24 +1,18 @@
 <div id="header" align="center">
   <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"/>
      <div id="badges">
-  <a href="https://www.linkedin.com/in/azizikhoiri/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:ibnuljefry99@gmail.com">
+  <a href="mailto:nisaoolle@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="https://www.instagram.com/ibnuljefry99/">
+  <a href="https://www.instagram.com/nisaoolle/">
     <img src="https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram" alt="Instagram Badge"/>
   </a>
 </div>
-     <img src="https://komarev.com/ghpvc/?username=AziziKhoiri99&style=flat-square&color=blue" alt=""/>
-  <a href="https://wakatime.com/@3e92424a-54fc-4d9c-899c-3e7c3e0c046a"><img src="https://wakatime.com/badge/user/3e92424a-54fc-4d9c-899c-3e7c3e0c046a.svg" alt="Total time coded since Jul 17 2023" /></a>
-  <img alt="Static Badge" src="https://img.shields.io/badge/status-chillin-gray?labelColor=red">
      <h1>
   Hello There, I'm Nisa
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-  <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AziziKhoiri99&row=1&no-frame=true&margin-w=15&theme=discord" alt="AziziKhoiri99" /></a></p>
+  <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nisaooolle&row=1&no-frame=true&margin-w=15&theme=discord" alt="nisaooolle" /></a></p>
 </div>
 
 ---
